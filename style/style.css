@@ -1,0 +1,66 @@
+body {
+    margin-top: 100px;
+    font-family:ans-s serif;
+   
+}
+.banner {
+    background-color: #2F1893;
+    width: 730px;
+    height: 500px;
+    padding: 100px 200px;
+  
+    color: white;
+
+   
+}
+h2 {
+    font-size: 58px;
+    line-height: 20px;
+   
+}
+h3 {
+    line-height: 10px;
+}
+.profile {
+    display: flex ;
+    align-items: center;
+    justify-items: center;
+    gap: 30px;
+    margin-top: 150px;
+}
+.social-site {
+    display: flex;
+    gap: 15px;
+}
+
+/* branding section css  */
+.branding {
+    margin: 100px 200px;
+}
+.perfect {
+    margin-top: 60px;
+}
+p {
+    font-size: 16px;
+    color: #15143966;
+}
+.girl-img {
+    width: 770px;
+    margin-top: 20px;
+}
+h4 {
+    color: #15143966;
+    font-size: 20px;
+}
+.ul {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.circle-img {
+    width: 10px;
+    height: 10px;
+}
+h5 {
+    font-weight: 50px;
+}
