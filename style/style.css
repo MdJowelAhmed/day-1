@@ -40,7 +40,8 @@ h3 {
     line-height: 10px;
 }
 
-.header {
+
+.banner-in-m-b {
     margin-bottom: 157px;
 }
 
@@ -49,6 +50,9 @@ h3 {
     justify-items: center;
     gap: 23px;
     margin-bottom: 96px;
+}
+li {
+    list-style-type: none
 }
 
 .social-site {
