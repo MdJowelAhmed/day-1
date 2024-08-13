@@ -57,7 +57,7 @@ li {
     list-style-type: none
 }
 
-.social-site {
+.gap-15 {
     gap: 15px;
 }
 
@@ -69,9 +69,9 @@ li {
 p {
     font-size: 16px;
     color: #15143966;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
-.img-girl {
+.m-b-15 {
     margin-bottom: 15px;
 }
 
@@ -100,13 +100,14 @@ b {
 }
 .m-b-25 {
     margin-bottom: 25px;
+    padding-top: 5px;
 }
 
 
 /* second pages  */
 
 .container2 {
-    width: 1100px;
+    width: 1150px;
     margin: auto;
     margin-bottom: 100px;
     margin-top: 100px;
@@ -115,7 +116,7 @@ b {
     width: 700px;
 }
 .section2 {
-    width: 300px;
+    width: 350px;
 }
 .date {
    color: #15143966;
@@ -124,4 +125,34 @@ b {
 .image {
     width: 700px;
     height: 400px;
+}
+.s-img {
+    width: 170px;
+    height: 100px;
+}
+.m-l {
+    margin-left: 90px;
+}
+.newsletter {
+    height: 160px;
+    padding: 30px;
+   /* margin-top: 30px; */
+}
+.input {
+    padding: 10px;
+    border-radius: 20px;
+}
+button {
+    margin-left: 10px;
+    /* width: 80px; */
+    background-color: #E4E3ED;
+}
+.span {
+    font-size: 14px;
+    color:#15143966;
+    margin-bottom: 20px;
+    
+}
+.m-t-15 {
+    margin-top: 15px;
 }
